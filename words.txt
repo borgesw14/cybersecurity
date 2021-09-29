@@ -1,0 +1,9 @@
+silver
+blue
+red
+green
+gold
+orange
+magenta
+purple
+copper
